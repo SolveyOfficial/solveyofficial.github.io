@@ -5,6 +5,7 @@ https://solveyofficial.github.io/
 
 - [Image Compressor](https://solveyofficial.github.io/image-compressor/)
 - [SVG Optimizer](https://solveyofficial.github.io/svg-optimizer/)
+- [Whiteboard](https://solveyofficial.github.io/whiteboard/)
 - [Diagram Editor](https://solveyofficial.github.io/diagram-editor/)
 - [SVG Path Editor](https://solveyofficial.github.io/svg-path-editor/)
 
